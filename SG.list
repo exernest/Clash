@@ -2,9 +2,9 @@
 DOMAIN-KEYWORD,18comic
 DOMAIN-KEYWORD,jmcomic
 # mhgui
-DOMAIN-SUFFIX,mhgui.com
-DOMAIN-SUFFIX,manhuagui.com
-DOMAIN-SUFFIX,hamreus.com
+#DOMAIN-SUFFIX,mhgui.com
+#DOMAIN-SUFFIX,manhuagui.com
+#DOMAIN-SUFFIX,hamreus.com
 DOMAIN-SUFFIX,7-zip.org
 
 
